@@ -35,8 +35,8 @@ code {
 }
 
 .instructions {
-  margin-bottom: 1em;
-  max-height: calc(100vh - 2em);
+  /* margin-bottom: 1em;
+  max-height: calc(100vh - 2em); */
   padding: 25px;
 
   background-color: #fff;
